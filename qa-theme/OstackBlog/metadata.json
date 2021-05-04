@@ -1,0 +1,10 @@
+{
+	"name": "OstackBlog",
+	"description": "Blog theme for question and answers",
+	"version": "1.4",
+	"date": "2014-03-11",
+	"author": "ZhaoGuangyue",
+	"author_uri": "http://www.ostack.cn",
+	"license": "GPLv2",
+	"min_q2a": "1.7"
+}
