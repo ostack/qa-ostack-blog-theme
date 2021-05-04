@@ -12,7 +12,7 @@ qa-ostack-blog-theme ,a theme to Make qa like a Blog , and this theme do not nee
 
 4.Enable [OstackBlog] theme and [en-blog] languange in Admin-General
 
-PS: If you want other language ,you can redefine language php file like 'qa-lang/en-blog'
+PS: If you want other language ,you can redefine language php file like in 'qa-lang/en-blog'
 
 Hope you can [Donate](https://www.paypal.com/paypalme/guangyuezhao) 10$ for my work
 
