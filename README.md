@@ -6,11 +6,13 @@ qa-ostack-blog-theme ,a theme to Make qa like a Blog , and this theme do not nee
 
 1.Download this theme
 
-2.Put all files in dir 'qa-theme\OstackBlog' to your site server dir ：qa-theme
+2.Put all files in dir 'qa-theme' to your site server dir ：qa-theme
 
 3.Put all files in dir 'qa-lang' to your site server dir ：qa-lang
 
-3.Enable [OstackBlog] theme and [en-blog] languange in Admin-General
+4.Enable [OstackBlog] theme and [en-blog] languange in Admin-General
+
+PS: If you want other language ,you can redefine language php file like 'qa-lang/en-blog'
 
 Hope you can [Donate](https://www.paypal.com/paypalme/guangyuezhao) 10$ for my work
 
